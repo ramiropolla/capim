@@ -789,7 +789,7 @@ function Main(ui_materias, ui_turmas, ui_logger, ui_combinacoes, ui_horario,
             ui_avisos.reset();
         } else {
             var str = semestre.substr(0,4) + "-" + semestre.substr(4,1);
-            ui_avisos.set_text("Você escolheu os horários de " + str + "! Nós já estamos em 2014-1!");
+            ui_avisos.set_text("Você escolheu os horários de " + str + "! Nós estamos em 2014-1!");
         }
         var ret = database.set_db(semestre, campus);
         if (ret == -1)
