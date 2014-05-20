@@ -161,6 +161,8 @@ para uso no MatrUFSC e colocá-los na pasta do aplicativo instalado no servidor:
 - http://ramiro.arrozcru.org/matrufsc/20132.json.gz
 - http://ramiro.arrozcru.org/matrufsc/20141.json
 - http://ramiro.arrozcru.org/matrufsc/20141.json.gz
+- http://ramiro.arrozcru.org/matrufsc/20142.json
+- http://ramiro.arrozcru.org/matrufsc/20142.json.gz
 
 Closure
 -------
